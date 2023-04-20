@@ -1,0 +1,50 @@
+/* common css file for all common classes added on three html pages */
+.text-color {
+  color: #f0f0f0;
+  font-weight: bold;
+}
+
+.hero {
+  color: rgb(211, 77, 77);
+}
+
+.heart-color {
+  color: rgb(191, 181, 181);
+  margin-left: 50px;
+}
+.heart-color i {
+  font-size: 1.1rem;
+}
+
+.card-link {
+  text-decoration: none;
+  color: rgb(211, 77, 77);
+}
+
+.navbar-toggle-color {
+  color: #f0f0f0;
+  font-size: 30px;
+}
+.favourite {
+  color: rgb(211, 77, 77);
+}
+
+.card {
+  cursor: pointer;
+  background-color: #f0f0f0;
+  box-shadow: 0px 2px 5px 0px #f0f0f0;
+  transform: translateY(10px);
+  transition: 0.5s;
+}
+
+.card:hover {
+  transform: scale(1.1) translateX(2px);
+  box-shadow: 0px 5px 10px 2px rgb(211, 77, 77);
+}
+
+.message-div {
+  padding: 100px 0px;
+}
+.message-div h1 {
+  color: #f0f0f0;
+}
