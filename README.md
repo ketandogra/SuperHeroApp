@@ -1,4 +1,7 @@
-SuperHero Web App
+## SuperHero Web App
+This is a front-end project using the Marvel API for searching superheroes and there details.
+
+preview - https://ketandogra.github.io/SuperHeroApp/
 
 ### General steps to follow when creating a project
 
@@ -32,37 +35,7 @@ SuperHero Web App
     . Creating session variable to storage id of selected superhero
     for rendering the details of superhero on another page.
 
-### Functions (in code)
 
-# Functions in app.js file
-
-    . initializeApp
-    . keypressEventHandler
-    . clickEventHandler
-    . saveLocally
-    . renderSuperheros
-    . addElementToDOM
-    . fetchSuperheroes
-    . hideLoading
-
-# Functions in favourite.js file
-
-    . initialize
-    . keypressEventHandler
-    . clickEventHandler
-    . favouriteHeroRender
-    . renderSuperheros
-    . addElementToDOM
-
-# Functions in character_details.js file
-
-    . fetchSuperhero
-    . addCharacterToDOM
-    . fetchCharacterEvents
-    . fetchCharacterSeries
-    . fetchCharacterComics
-    . fetchSuperhero
-    . superheroMoreDetails
 
 # Function in common_functionality.js
 
