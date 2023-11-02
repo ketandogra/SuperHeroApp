@@ -1,7 +1,7 @@
 ## SuperHero Web App
-This is a front-end project using the Marvel API for searching superheroes and there details.
+This is a front-end project using the Marvel API for searching for superheroes and there details.
 
-preview - https://ketandogra.github.io/SuperHeroApp/
+preview: https://ketandogra.github.io/SuperHeroApp/
 
 ### General steps to follow when creating a project
 
@@ -43,3 +43,14 @@ preview - https://ketandogra.github.io/SuperHeroApp/
     . saveIdIntoSessionStroage
     . searchHeroes
     . removeFavouriteHero
+
+# Pages
+
+##Home
+![home](https://github.com/ketandogra/SuperHeroApp/assets/75082428/476f4b18-900d-4302-acd7-42844171482b)
+
+## Favourites
+![fav](https://github.com/ketandogra/SuperHeroApp/assets/75082428/64bb0a10-0e3d-4e28-8cf4-f02614b28b6a)
+
+##Superhero Details
+![details](https://github.com/ketandogra/SuperHeroApp/assets/75082428/87fcb34a-0818-4b1e-998b-d4884dd31e21)
